@@ -5,8 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshaldulera&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="harshaldulera" /> </p>
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Follow My Socials 
-<a href="https://twitter.com/BeatsHarshal" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
 </a>
 <a href="https://linkedin.com/in/harshal-dulera/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -14,3 +13,5 @@
 <a href="https://instagram.com/thelifeofharshal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://twitter.com/BeatsHarshal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
