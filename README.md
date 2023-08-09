@@ -24,6 +24,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-ViteJS-000?style=for-the-badge&logo=ViteJS)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![Djano](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
