@@ -34,3 +34,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=white)
+
+[![Harshal Dulera's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=harshaldulera&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
