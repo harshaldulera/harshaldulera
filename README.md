@@ -39,6 +39,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldulera&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="harshaldulera's Top Languages" style="height: auto; width: auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaldulera&theme=dark&hide_border=true" alt="harshaldulera's Streak" style="height: auto; width: auto" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaldulera&theme=dark&hide_border=true" alt="harshaldulera's Streak" style="height: auto; width: auto; max-height: 195px" />
 </div>
 
