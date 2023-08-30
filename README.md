@@ -35,8 +35,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<div>
 ![harshaldulera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldulera&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![harshaldulera's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshaldulera&theme=dark&hide_border=true)
 ![harshaldulera's Stats](https://github-readme-stats.vercel.app/api?username=harshaldulera&theme=dark&show_icons=true&hide_border=true&count_private=true)
-</div>
