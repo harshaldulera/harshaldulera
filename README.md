@@ -38,7 +38,7 @@
 ## <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/github.webp" width="20"> Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldulera&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="harshaldulera's Top Languages" style="height: 200px; width: auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaldulera&theme=dark&hide_border=true" alt="harshaldulera's Streak" style="height: 200px; width: auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaldulera&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="harshaldulera's Top Languages" style="height: 400px; width: auto" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshaldulera&theme=dark&hide_border=true" alt="harshaldulera's Streak" style="height: 200px; width: 300px" />
 </div>
 
