@@ -17,7 +17,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Technologies I've Worked With
-![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -27,14 +27,15 @@
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![Djano](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
+![Djano](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/shopify-000?style=for-the-badge&logo=shopify)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 
 ## <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/github.webp" width="20"> Github Stats
 
