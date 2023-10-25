@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)
-![Typescript](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=node)
+![Typescript](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodejs)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![Djano](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
