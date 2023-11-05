@@ -17,7 +17,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Technologies I've Worked With
-  [![My Skills](https://skillicons.dev/icons?i=c,c++,azure,react,typescript&perline=3)](https://github.com/harshaldulera)
+  [![My Skills](https://skillicons.dev/icons?i=c,c++,azure,react,typescript,docker,express,postgresql,sqlite,django,flask,nodejs,npm,vite&perline=9)](https://github.com/harshaldulera)
 
 ## <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/github.webp" width="20"> Github Stats
 
