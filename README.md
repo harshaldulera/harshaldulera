@@ -18,5 +18,3 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Technologies I've Worked With
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,azure,html,css,js,react,typescript,docker,express,postgresql,sqlite,django,flask,nodejs,vite,mongodb,nextjs,firebase,vercel,heroku&perline=15)](https://github.com/harshaldulera)
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshaldulera&show_icons=true&locale=en" alt="harshaldulera" /></p>
