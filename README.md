@@ -13,7 +13,7 @@
 <a href="https://instagram.com/thelifeofharshal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/BeatsHarshal" target="_blank">
+<a href="https://twitter.com/Harshalthe5ers" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Technologies I've Worked With
