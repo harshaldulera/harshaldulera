@@ -1,20 +1,41 @@
-<h1 align="center">Hi, I'm Harshal Dulera <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
-<h4 align="center">⚡️ Cyber Geek ⚡️</h4>
+<h1 align="center">Hi, I'm Harshal 👋</h1>
+<p align="center"><b>Growth Operator at <a href="https://the5ers.com">The5ers</a> · still writes a lot of code</b></p>
 
-<!-- Profile views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshaldulera&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="harshaldulera" /> </p>
+<p align="center">
+  <a href="https://harshaldulera.vercel.app"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harshal-dulera"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/harshalthe5ers"><img src="https://img.shields.io/badge/x-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/harshal0x01"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:harshaldulera02@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Follow My Socials 
+### 🧭 About
+- 📈 By day I build **creator acquisition systems** at The5ers: creator partnerships, growth ops, CRM design.
+- 🛠️ I build my own tools for that work, plus side projects (full-stack, automation, trading tools).
+- 🔐 Before marketing, I did **security and full-stack dev**: CTFs, HTB, red-team tooling.
+- 💬 Ask me about: growth for startups, creator marketing, or turning a messy process into software.
 
-</a>
-<a href="https://linkedin.com/in/harshal-dulera/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/harshal0x01" target="_blank">
-<img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Harshalthe5ers" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+### 🧰 Stack
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Technologies I've Worked With
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,azure,html,css,js,react,typescript,docker,express,postgresql,sqlite,django,flask,nodejs,vite,mongodb,nextjs,firebase,vercel,heroku,netlify,postman,kali&perline=15)](https://github.com/harshaldulera)
+**Languages**
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,ts,js,ruby,solidity,bash,powershell&perline=12)](#)
+
+**Frontend**
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=12)](#)
+
+**Backend**
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,rails,bun,graphql&perline=12)](#)
+
+**Data & BaaS**
+[![Data](https://skillicons.dev/icons?i=supabase,postgres,mongodb,redis,sqlite,firebase,prisma&perline=12)](#)
+
+**DevOps & Infra**
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,vercel,cloudflare,aws,azure&perline=12)](#)
+<br/>
+<img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+
+**Tools**
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,figma,notion,vscode,kali&perline=12)](#)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=harshaldulera&color=blue&style=flat-square" /></p>
