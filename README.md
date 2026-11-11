@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshal 👋</h1>
-<p align="center"><b>Growth Operator at <a href="https://the5ers.com">The5ers</a> · still writes a lot of code</b></p>
+<p align="center"><b>Content Strategy at <a href="https://the5ers.com">The5ers</a> · still writes a lot of code</b></p>
 
 <p align="center">
   <a href="https://harshaldulera.vercel.app"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
